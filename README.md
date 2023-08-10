@@ -42,5 +42,5 @@ Utilitários:
 ## 💻 Projeto
 
 <p align="left">
-Fiz um aplicativo de lista de tarefas. O projeto teve foco em exeercitar tópicos importantes, como: gerenciamento de estado, rotas, listas, e outros conceitos mais focados na UI. É possível criar uma nova tarefa, remover, marcar como concluída, além de filtrar pelas tarefas não concluídas e concluídas.
+Fiz um aplicativo de lista de tarefas. O projeto teve foco em exercitar tópicos importantes, como: gerenciamento de estado, rotas, listas, e outros conceitos mais focados na UI. É possível criar uma nova tarefa, remover, marcar como concluída, além de filtrar pelas tarefas não concluídas e concluídas.
 </p>
