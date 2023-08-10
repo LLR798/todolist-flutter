@@ -32,7 +32,7 @@ Frameworks
 
 Utilitários: 
 
--[GOOGLE FONTS](https://fonts.google.com/)
+- [GOOGLE FONTS](https://fonts.google.com/)
 
 
 ## 💻 Projeto
